@@ -1,2 +1,2 @@
 # Color-Quantization-using-KNN-really-fast
-Here we are using KNN for image quantization. We will be using the standard baboon.jpg image and quantize it by 3 colors, then 5 colors, then 10 colors and finally 20 colors
+Here we are using KNN for image quantization. We will be using the standard baboon.jpg image and quantize it by 3 colors, then 5 colors, then 10 colors and finally 20 colors. We will be using KNN for it. Please note that we will be using basic numpy functions like np.tile, np.linalg etc. In fact, by just using basic functions like them, we will run the code for all 4 colors in just 9 minutes. 
